@@ -1,0 +1,27 @@
+{
+  "name": "responsive exercise",
+  "version": "0.0.0",
+  "authors": [
+    "Cris Ryan Tan <ry_15_yan@hotmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "responsive",
+    "bootstrap",
+    "html"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
